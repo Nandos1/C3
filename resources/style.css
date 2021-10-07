@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+  width: 600px;
+  padding: 0 10px;
+}
+
+.container {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: auto;
+  max-width: 50%;
+  float: inline-start;
+  clear: both;
+}
+
+
+.right {
+  background-color: #fc6b03;
+  text-align: right;
+  float: inline-end;
+}
+
+.timecontainer {
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+p {
+  font-family: helvetica;
+  font-weight: lighter;
+}
+
+.text-right {
+  color: white;
+}
+
+.time {
+  color: grey;
+  text-align: center;
+  font-size: 15px;
+}
